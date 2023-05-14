@@ -1,0 +1,11 @@
+.pagination {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+}
+
+.content {
+  overflow-y: scroll;
+  height: 30vh;
+}
